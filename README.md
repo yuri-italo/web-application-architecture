@@ -1,6 +1,6 @@
 # Arquitetura de Aplicações Web
 
-Bem-vindo ao meu repositório de atividades da disciplina de Arquitetura de Aplicações Web do Centro Universitário Newton Paiva. Aqui você encontrará os trabalhos e projetos desenvolvidos utilizando esta tecnologia, separados em pastas de acordo com cada atividade.
+Bem-vindo ao meu repositório de atividades da disciplina de Arquitetura de Aplicações Web do Centro Universitário Newton Paiva. Aqui você encontrará os trabalhos e projetos, separados em pastas de acordo com cada atividade.
 
 ## Sobre o Curso
 
