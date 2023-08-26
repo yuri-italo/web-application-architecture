@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>MVC Exemplo Node.JS</title>
+    <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <br/><br/><br/>
+      <h2>Bancos Brasileiros</h2>
+      <br/>
+      <% if (banks.length > 0) { %>
+        <div class="row">
+          <% for(var i = 0; i < banks.length; i++) {%>
+            <div class="col-md-12 jumbotron">
+              <p><%= banks[i].COMPE %></p>
+              <p><%= banks[i].ShortName %></p>
+              <p><%= banks[i].Document %></p>
+              <p><%= banks[i].Type %></p>
+              <p><%= banks[i].Url %></p>
+            </div>
+          <% } %>
+        </div>
+      <% } %>
+    </div>
+  </body>
+</html>
