@@ -1,4 +1,4 @@
-**API de filmes **
+# API de filmes em node.js com MySQL e base64
 
 Esta API fornece endpoints para criar, ler, atualizar e excluir filmes, utilizando base64 para salvar imagens.
 
@@ -10,7 +10,7 @@ Esta API fornece endpoints para criar, ler, atualizar e excluir filmes, utilizan
 **Instalação**
 
 ```
-git clone https://github.com/yuri-italo/task-03.git
+git clone https://github.com/yuri-italo/web-application-architecture.git
 cd task-03
 npm install
 ```
