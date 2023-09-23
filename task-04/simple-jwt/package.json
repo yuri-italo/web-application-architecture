@@ -1,0 +1,18 @@
+{
+  "name": "simple-jwt",
+  "version": "1.0.0",
+  "description": "Simple JWT auth example using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

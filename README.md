@@ -13,6 +13,7 @@ O repositório está organizado da seguinte forma:
 - [**Atividade 1**](https://github.com/yuri-italo/web-application-architecture/tree/main/task-01): Nesta atividade, criei uma aplicação que utiliza o padrão arquitetural MVC para listar bancos brasileiros. O objetivo central foi aprender e aplicar os princípios do MVC em um cenário prático.
 - [**Atividade 2**](https://github.com/yuri-italo/web-application-architecture/tree/main/task-02): API de Filmes criada com Node.js e MongoDB, que permite realizar operações CRUD (Create, Read, Update, Delete) em uma coleção de filmes.
 - [**Atividade 3**](https://github.com/yuri-italo/web-application-architecture/tree/main/task-03): API de Filmes criada com Node.js e MySQL, que permite realizar operações CRUD (Create, Read, Update, Delete) em uma coleção de filmes e salvar imagens em base64.
+- [**Atividade 4**](https://github.com/yuri-italo/web-application-architecture/tree/main/task-04): Exemplos de autenticação com Node.js.
 
 Sinta-se à vontade para explorar cada pasta de atividade, revisar o código-fonte e os resultados dos projetos específicos de cada tarefa.
 
